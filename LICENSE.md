@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) eightanddouble <github@praveen.bulc.club>
+Copyright (c) 2022 Eight And Double <eightanddouble@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
